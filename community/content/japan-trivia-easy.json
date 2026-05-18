@@ -196,9 +196,8 @@
     "Monorail"
   ],
   "correctIndex": 0
-  }
-]
-{
+  },
+  {
   "question": "Which traditional Japanese sport involves wrestling in a ring? (Community variation 36)",
   "difficulty": "easy",
   "answers": [
@@ -208,4 +207,5 @@
     "Aikido"
   ],
   "correctIndex": 0
-}
+  }
+]
